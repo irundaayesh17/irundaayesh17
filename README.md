@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🧑‍💻 I am currently learning React and JavaScript.<br>- 📚 I am Interested in full-stack development.<br>- ⚡ In my free time, I play games.<br>- 📧 Reach me through ayeshirunda1234@gmail.com</p>
+<p align="left">- 🧑‍💻 I am currently learning MERN Stack.<br>- 📚 I am Interested in full-stack development.<br>- ⚡ In my free time, I play games.<br>- 📧 Reach me through ayeshirunda1234@gmail.com</p>
 
 ###
 
